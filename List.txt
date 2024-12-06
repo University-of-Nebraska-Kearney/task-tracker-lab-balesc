@@ -1,0 +1,12 @@
+HW
+Math
+12/15
+True
+CS
+Lab
+12/18
+True
+Schedule
+Insta
+12/15
+False
